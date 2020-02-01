@@ -1,4 +1,4 @@
-# HMM_Viterbi_POS_Tagging
+# SyntacticProcessing_NLP_HMM_Viterbi_POS_Tagging
 
 Modify Viterbi algorithm to solve the problem of unknown words using at least two techniques.
 
